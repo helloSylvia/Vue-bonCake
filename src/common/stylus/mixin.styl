@@ -1,0 +1,25 @@
+// border 1px
+border-1px($color)
+	position: relative
+	&:after
+		display: block
+		position: absolute
+		left: 0
+		// 因为是设下边框
+		bottom: 0
+		width: 100%
+		border-top: 1px solid $color
+		content: ' '
+
+// 没有1px的效果
+border-none()
+	&:after
+		display: none
+
+
+// 2x 和 3x 图片的选择
+bg-image($url)
+	background-image: url($url + "@2x.png")
+@media (-webkit-min-device-pixel-ratio:3),(min-device-pixel-ratio)
+	background-image:($url + "@3x.png")
+
