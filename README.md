@@ -1,21 +1,31 @@
-# newhao
+# VUE-bonCake
 
-> newhao app
+## 1. 简介
 
-## Build Setup
+​	这是一个蛋糕店的外卖webapp的Demo
 
-``` bash
-# install dependencies
-npm install
+## 2.环境参数
 
-# serve with hot reload at localhost:8080
-npm run dev
+### 技术语言
 
-# build for production with minification
-npm run build
+htm了、css3、javascript、es6
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+### 框架
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Vue2.0 、vue-resource、vue-router、better-scroll
+
+## 3.功能
+
+​	1.商品页：
+
+​		商品展示、加入购物车、价格计算、页面滚动
+
+​        2.评价页：
+
+​		评分展示、评论分类展示
+
+​	3.商家页
+
+​		商家基本信息展示、收藏
+
+​           	
