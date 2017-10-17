@@ -1,0 +1,1231 @@
+{
+  "seller": {
+    "name": "BON CAKE",
+    "description": "蜂鸟专送",
+    "deliveryTime": 38,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "1886年，第一代BON叔在巴黎街头开设了一家甜品店，他一直用微笑和色彩温暖着他的客人。 2009年一位国立凡尔赛美术学院的新锐设计师， 一位蓝带桀 骜不驯的优秀的年轻厨师和一位勒芒大学主修心理学和色彩学的年轻心理咨询师加入到产品的研发之中， 用他们的热情和自己擅长的专业知识， 碰撞出 BON CAKE 色彩系列蛋糕",
+    "supports": [
+      {
+        "type": 0,
+        "description": "在线支付满280减50"
+      },
+      {
+        "type": 1,
+        "description": "月光礼物8折"
+      },
+      {
+        "type": 2,
+        "description": "精彩套餐"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "已加入“外卖保”计划,食品安全保障"
+      }
+    ],
+    "avatar": "https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2242200189,636136507&fm=58&s=3AAE7C22C3F459805E7D90C6000080B1&bpow=121&bpoh=75",
+    "bgImage": "http://www.boncake.com.cn/public/images/cc/fc/55/d829f3359fc27aee3315eb6a69a4b36ee891486d.jpg?1505940097#w",
+    "pics": [
+      "http://www.thegate.cn/shop/Picture/20150106145490549054.jpg",
+      "https://static.lagou.com/i/image/M00/00/D2/CgqKkVZWvCGAJMiTAAFR9mEO9vo084.jpg",
+      "https://static.lagou.com/i/image/M00/00/D2/CgqKkVZWvBSAZePRAAGSDUuRHEc876.jpg",
+      "https://static.lagou.com/i/image/M00/00/D2/Cgp3O1ZWvBqAf_f_AAGc7qmExj0966.jpg"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "预定:北京五环内免费配送，请提前24小时预定",
+      "海淀区中关村新中关购物中心B1层",
+      "营业时间:10:00-20:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销榜",
+      "type": -1,
+      "foods": [
+        {
+          "name": "拥抱时光",
+          "price": 338,
+          "oldPrice": "",
+          "description": "比利时巧克力，新西兰奶油",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "新锐的裱花方式制作豆沙花朵，把这束代表爱的花送给深爱的她",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/25/93/b3/f0f93924d41e9855757fea4ad8d256e8673d5e39.jpg?1498813002#h",
+          "image": "http://www.boncake.com.cn/public/images/7a/d5/cc/929a4235204df952465b3449f99efadccd3efdc0.jpg?"
+        },
+        {
+          "name": "喜上玫梢",
+          "price": 408,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "info": "",
+          "icon": "http://www.boncake.com.cn/public/images/f1/e4/b8/9787a936ca62aa6cdba6f292f5d932375a630792.jpg?1490156289#h",
+          "image": "http://www.boncake.com.cn/public/images/f5/8c/10/c85cb2be83b084dc1b53a83191341583d2be2a95.jpg?1490156289#h"
+        },
+        {
+          "name": "梦露",
+          "price": 338,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "一般",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/bc/d7/f5/5359a4be6d6e8dbdd06241b7780c57f518bb0435.jpg?1488445522#h",
+          "image": "http://www.boncake.com.cn/public/images/51/fc/f0/73863360c288faa22b89291b06262b8a718e3995.jpg?1488445522#h"
+        }
+      ]
+    },
+    {
+      "name": "特惠蛋糕",
+      "type": 2,
+      "foods": [
+        {
+          "name": "爱之岛",
+          "price": 318,
+          "oldPrice": 338,
+          "description": "花颜巧遇安慕希",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/7e/74/cb/2665b07b727892d7582f6eb8bd37202a983b4a63.jpg?1497876341#h",
+          "image": "http://www.boncake.com.cn/public/images/cb/0e/46/29a167f0386776ac2c413fc693714568e774e7d7.jpg?1500262417#h"
+        }
+      ]
+    },
+    {
+      "name": "限时折扣",
+      "type": 1,
+      "foods": [
+        {
+          "name": "月光礼物",
+          "price": 178,
+          "oldPrice": 218,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/c4/d0/d3/6c19b89697638052ee24f9b4a5d516c98ef43319.jpg?1498819949#h",
+          "image": "http://www.boncake.com.cn/public/images/c3/0f/eb/b98c39c28e80c6352659c1c29f77231431770593.jpg?1498819949#h"
+        }
+      ]
+    },
+    {
+      "name": "安慕希小镇",
+      "type": -1,
+      "foods": [
+        {
+          "name": "爱之岛",
+          "price": 318,
+          "oldPrice": 338,
+          "description": "花颜巧遇安慕希",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/7e/74/cb/2665b07b727892d7582f6eb8bd37202a983b4a63.jpg?1497876341#h",
+          "image": "http://www.boncake.com.cn/public/images/cb/0e/46/29a167f0386776ac2c413fc693714568e774e7d7.jpg?1500262417#h"
+        },
+        {
+          "name": "永恒小镇",
+          "price": 338,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 29,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/f4/70/18/06de154cd8c0120b76f3e088003a8e9e22324436.jpg?1497874618#h",
+          "image": "http://www.boncake.com.cn/public/images/ad/9b/ad/c3b294e0c568fc8495795d296fb4c9e50b195711.jpg?1497874618#h"
+        },
+        {
+          "name": "爱情小镇",
+          "price": 338,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/65/bc/6c/4884aa222955c184d4b365494de1f7ce8e3c6673.jpg?1497605164#h",
+          "image": "http://www.boncake.com.cn/public/images/ef/7c/fc/b641e0aef33a81c5a666c8558685738f29696aaf.jpg?1497605164#h"
+        },
+        {
+          "name": "爱情沙滩",
+          "price": 258,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/73/12/5c/5daa47d1c5cc8286d18febe4cac3bda82a51a7bf.jpg?1499342030#h",
+          "image": "http://www.boncake.com.cn/public/images/73/f8/75/be1134f65992a064f30fb16fd0c1daf15e13e593.jpg?1499342030#h"
+        }
+      ]
+    },
+    {
+      "name": "甜蜜时光",
+      "type": -1,
+      "foods": [
+        {
+          "name": "甜蜜时光",
+          "price": 338,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/ad/b7/fe/5e216f825ad72565a32268f6112b44473c94dc3e.jpg?1498814825#h",
+          "image": "http://www.boncake.com.cn/public/images/06/d7/a2/31e093dfe1c33d6678eedb4cba44ac95585d5b66.jpg?1498814825#h"
+        },
+        {
+          "name": "盛放时光",
+          "price": 338,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/89/95/f0/8f1e2c07b8f3ae45bd23086c43dd5ba8077ae05a.jpg?1498814532#h",
+          "image": "http://www.boncake.com.cn/public/images/6a/d9/eb/422440fc80bf8a3dd31daefcd559e058f2ce234a.jpg?1498814532#h"
+        },
+        {
+          "name": "璀璨时光",
+          "price": 338,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 28,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/4c/9c/6a/c917d3db20ccb1a6f4152e913b98caefabb907ef.jpg?1498815024#h",
+          "image": "http://www.boncake.com.cn/public/images/12/5e/27/43cf0747d9234efdf1a1d45a0f8d3e0b93b7b771.jpg?1498815156#h"
+        },
+        {
+          "name": "拥抱时光",
+          "price": 338,
+          "oldPrice": "",
+          "description": "比利时巧克力，新西兰奶油",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "新锐的裱花方式制作豆沙花朵，把这束代表爱的花送给深爱的她",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "很喜欢",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/25/93/b3/f0f93924d41e9855757fea4ad8d256e8673d5e39.jpg?1498813002#h",
+          "image": "http://www.boncake.com.cn/public/images/7a/d5/cc/929a4235204df952465b3449f99efadccd3efdc0.jpg?"
+        }
+
+      ]
+    },
+    {
+      "name": "双层定制",
+      "type": -1,
+      "foods": [
+        {
+          "name": "春风的脚步",
+          "price": 898,
+          "oldPrice": "",
+          "description": "韩国白云豆沙佐卡门贝尔乳酪",
+          "sellCount": 3,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/98/5d/b2/1155d8459be5fe32cc58cc94995791daddedd844.jpg?1500287148#h",
+          "image": "http://www.boncake.com.cn/public/images/18/16/3e/74284095879aa838f8003a7df5051783095e9ebf.jpg?1500287148#h"
+        },
+        {
+          "name": "风华绝代",
+          "price": 998,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/b7/f8/b0/3f7e3a1dcc152aac195d398e8fec627dc99374b5.jpg?1500288938#h",
+          "image": "http://www.boncake.com.cn/public/images/7f/eb/d7/28d7a1eedd8689c35b4b795bd03226350fd1b1d7.jpg?1500288938#h"
+        },
+        {
+          "name": "赫本",
+          "price": 898,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/e9/fa/c6/c26cbba7fc7e489ab858e64cdb4bb3418423df1b.jpg?1500290577#h",
+          "image": "http://www.boncake.com.cn/public/images/09/c8/10/212844d01da3fb059c7f41379ff19de0c9aa1245.jpg?1500290577#h"
+        },
+        {
+          "name": "温暖的家",
+          "price": 898,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 12,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/62/69/be/dba9c86d7658839a38c9e67feb464dd1941736c8.jpg?1500289690#h",
+          "image": "http://www.boncake.com.cn/public/images/a2/ec/9e/cd93c232409a95f724ef0b0ce76eb7864088a869.jpg?1500289690#h"
+        }
+      ]
+    },
+    {
+      "name": "心花怒放",
+      "type": -1,
+      "foods": [
+        {
+          "name": "小桃红",
+          "price": 238,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 1,
+          "rating": "",
+          "info": "",
+          "ratings": [],
+          "icon": "http://www.boncake.com.cn/public/images/45/c7/9d/6b99b162e89c1030af68a0988c2dba727da9cb7c.jpg?1489934599#h",
+          "image": "http://www.boncake.com.cn/public/images/b7/e6/9c/7d58083afd29f5ec8aeeca3bc5be6aeac71a8c22.jpg?1489934599#h"
+        },
+        {
+          "name": "桃你喜欢",
+          "price": 348,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 7,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/64/fb/78/7f1aae717eda101308d105796209e98d472f04de.jpg?1490154336#h",
+          "image": "http://www.boncake.com.cn/public/images/1f/30/00/0aeff845f28b1d24842a6716cd4d72388833db73.jpg?1490154337#h"
+        },
+        {
+          "name": "爱神降临",
+          "price": 338,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/4c/d2/df/57a12ff990cec34e3f649cc571fcf9294123bc20.jpg?1490695601#h",
+          "image": "http://www.boncake.com.cn/public/images/58/8d/a9/23688221f0af1b57bde1ca2789fb558ff2cfb759.jpg?1490695601#h"
+        },
+        {
+          "name": "小幸运",
+          "price": 338,
+          "oldPrice": 10,
+          "description": "",
+          "sellCount": 15,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "还可以",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/a4/07/c4/36fd611401a687b6617e8fab87db97ce47c1d61f.jpg?1489932993#h",
+          "image": "http://www.boncake.com.cn/public/images/2d/35/4d/c6ef66d02250a171c58f05cf8649d84746970e80.jpg?1489932993#h"
+        }
+      ]
+    },
+    {
+      "name": "生如夏花",
+      "type": -1,
+      "foods": [
+        {
+          "name": "夏日花冠",
+          "price": 218,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/d6/2f/c7/49fd5227ecf7ad578279c73263a0f0b5857209dd.jpg?1498454803#h",
+          "image": "http://www.boncake.com.cn/public/images/34/5d/25/ac6d8c5b29919645c35c8d2a5d53065f2ca4dc79.jpg?1498454804#h"
+        },
+        {
+          "name": "梦的翅膀",
+          "price": 218,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "没啥味道",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 1,
+              "text": "很一般啊",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/47/f3/f8/b9c391b6100d76c081a06f7b796d63ac891a9580.jpg?1498454444#h",
+          "image": "http://www.boncake.com.cn/public/images/c9/cb/25/2ef9d272b0c2ccf463e2827964deb32849784f86.jpg?1498454444#h"
+        },
+        {
+          "name": "绿野仙踪",
+          "price": 238,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不推荐",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/3a/f6/a9/7ffbbe22a859e7090e77fb6d43b0601b26a1c3d7.jpg?1498826119#h",
+          "image": "http://www.boncake.com.cn/public/images/3c/47/60/0312b80dc4339d36290c8d2307456932376ae555.jpg?1498826418#h"
+        },
+        {
+          "name": "玫瑰人生",
+          "price": 388,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 1,
+              "text": "不脆,不好吃",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/05/85/cf/7ba11ab6e74e1f8e5ad3ef7fb69730d65525c2c1.jpg?1498645196#h",
+          "image": "http://www.boncake.com.cn/public/images/86/d1/f3/e51ed10692ab01d24df407a719402a044f1d4af5.jpg?1498645196#h"
+        },
+        {
+          "name": "盛夏光年",
+          "price": 338,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 80,
+          "rating": 93,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/fe/36/26/4691d2cbc33ee739cb2e5e63f05ec74f577404b9.jpg?1498645747#h",
+          "image": "http://www.boncake.com.cn/public/images/33/59/c3/0eaf13a42d84c53f0b3fb52942d100f8926e1b32.jpg?1498645747#h"
+        }
+      ]
+    },
+    {
+      "name": "星空系列",
+      "type": -1,
+      "foods": [
+        {
+          "name": "星云",
+          "price": 288,
+          "oldPrice": "",
+          "description": "天空",
+          "sellCount": 229,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "好漂亮",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/4c/75/7b/3180f3af9768a15956eb7b1a3d331510a1a51d91.jpg?1505939332#h",
+          "image": "http://www.boncake.com.cn/public/images/f0/fe/f1/ff7425c4c4580877f39c81e701896b4e36bad529.jpg?1505939332#h"
+       
+        },
+        {
+          "name": "玫瑰星空",
+          "price": 308,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 91,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/be/0b/a5/197f1d53240f77d958ed6b648126ec3437d4efa2.jpg?1505938375#h",
+          "image": "http://www.boncake.com.cn/public/images/32/8f/eb/664d22fb53aab0ee75bbe3cc52e32bbfd55ee750.jpg?1505938532#h"
+        },
+        {
+          "name": "极光",
+          "price": 288,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/f6/88/66/f89c27f767c87e676849cde158fce3b4f1491a7e.jpg?1505936262#h",
+          "image": "http://www.boncake.com.cn/public/images/f5/c8/a3/213880da2c82d1858a003b6755aaf56d98b6b8f0.jpg?1505936263#h"
+        },
+        {
+          "name": "专属星空",
+          "price": 308,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 81,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://www.boncake.com.cn/public/images/81/1a/17/95417a57871ca3fead79070bfa37e2a3a69780f4.jpg?1486628542#h",
+          "image": "http://www.boncake.com.cn/public/images/c3/7d/2d/60d0df4887d4b815a5631f12a0898d9588f04998.jpg?1486628542#h"
+        }
+ 
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,非常赞,强烈推荐.",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "甜蜜时光"
+       
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "安慕希小镇"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的蛋糕店",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469221264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "还可以",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": [
+        "翻糖"
+      ]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "挺好吃的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "t******b",
+      "rateTime": 1469181964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "f******c",
+      "rateTime": 1469171964000,
+      "deliveryTime": 15,
+      "score": 5,
+      "rateType": 0,
+      "text": "送货速度很快",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******3",
+      "rateTime": 1469161264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "u******b",
+      "rateTime": 1469151964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "下雨天给快递小哥点个赞",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "s******c",
+      "rateTime": 1469141964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "好",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "z******3",
+      "rateTime": 1469131264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "吃了还想再吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "n******b",
+      "rateTime": 1469121964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "发票开的不对",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "m******c",
+      "rateTime": 1469111964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "好吃",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "l******3",
+      "rateTime": 1469101264000,
+      "deliveryTime": 40,
+      "score": 5,
+      "rateType": 0,
+      "text": "还不错吧",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******o",
+      "rateTime": 1469091964000,
+      "deliveryTime": "",
+      "score": 2,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "3******p",
+      "rateTime": 1469081964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "很喜欢的",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "o******k",
+      "rateTime": 1469071264000,
+      "deliveryTime": "",
+      "score": 5,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    },
+    {
+      "username": "k******b",
+      "rateTime": 1469061964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+  ]
+}
